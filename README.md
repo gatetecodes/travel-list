@@ -7,3 +7,5 @@ Features:
 - Ability to delete item from list
 - Stats in the footer about how many items there are, how many have been packed, and the percentage
 - Ability to sort items by packed status or by description
+
+## Made with ReactJS
